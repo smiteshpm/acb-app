@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/acb-app/static/css/main.073c9b0a.css",
+    "main.js": "/acb-app/static/js/main.25f11e1e.js",
+    "static/js/787.f804986d.chunk.js": "/acb-app/static/js/787.f804986d.chunk.js",
+    "static/media/logo.svg": "/acb-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/acb-app/index.html",
+    "main.073c9b0a.css.map": "/acb-app/static/css/main.073c9b0a.css.map",
+    "main.25f11e1e.js.map": "/acb-app/static/js/main.25f11e1e.js.map",
+    "787.f804986d.chunk.js.map": "/acb-app/static/js/787.f804986d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.25f11e1e.js"
+  ]
+}
